@@ -93,12 +93,7 @@ Enter admin password: admin123
 
 ---
 
-## 📜 License
-This project is released under the **MIT License** — feel free to modify and distribute it.
-
----
-
 ## ✨ Author
 **Sk Sameera**  
-📧 _[Add your email or GitHub link here if you want]_
+📧 shaiksameera5002@gmail.com
 
